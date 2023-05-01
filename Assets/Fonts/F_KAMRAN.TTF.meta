@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 47e6d59e22c20874b81ea9cee1f78e49
+timeCreated: 1678310615
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: F_kamran
+  fontNames:
+  - F_kamran
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
