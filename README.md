@@ -13,7 +13,7 @@ Players may move the boxes next to the blank house to reach the goal state which
 ![mainMenu](https://github.com/Amin-ir/8-Puzzle-with-AStar-on-Unity/assets/91383421/47267ee7-0ffe-445b-9663-226c52308985)
 
 ## Installation
-To install and play 8-Puzzle, follow these steps:
+To install and play 8-Puzzle, you can simply download an initial built version [here](https://s33.picofile.com/file/8484372576/8puzzle.apk.html); OR you may follow these steps:
 1. Clone or download the repository.
 2. Open the project in Unity version 2022.1.24f1 or later.
 3. Build the game for your desired platform or run it in the Unity Editor.
